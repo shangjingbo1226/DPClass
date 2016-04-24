@@ -23,7 +23,7 @@ $ make
 You could execute the code in the following way:
 
 ```
-./run_forward.sh dataset_name l2-norm-coefficient
+./run_forward.sh dataset_name l2_norm_coefficient
 ./run_glmnet.sh dataset_name
 ```
 
